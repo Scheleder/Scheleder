@@ -1,6 +1,5 @@
 🙋‍♂️ Hi there! 👋
 
-
 🧑🏻‍💼 I’m currently working as Developer in Raltec.
 
 🤪 I’m currently learning Laravel Livewire and Blazor
@@ -31,9 +30,9 @@
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]()
 [![MariDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)]()
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=scheleder&show_icons=true&theme=tokyonight"/>-->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scheleder&layout=compact&theme=tokyonight"/>
-
 
 🤙 How to reach me:
 
@@ -47,8 +46,3 @@
 [![GooglePlay](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Jo%C3%A3o+Scheleder+Neto)
 [![Curriculum](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://www.scheleder.com/cv_scheleder.pdf)
 	
-
-
-
-
-
