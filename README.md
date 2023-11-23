@@ -2,7 +2,7 @@
 
 🧑🏻‍💼 I’m currently working as Developer in Raltec.
 
-🤪 I’m currently learning Laravel Livewire and Blazor
+🤪 I’m currently learning Livewire, Filament and Blazor
 
 
 
