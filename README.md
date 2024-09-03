@@ -1,6 +1,6 @@
 🙋‍♂️ Hi there! 👋
 
-🧑🏻‍💼 I’m currently working as Developer in Raltec.
+🧑🏻‍💼 I’m currently working as Developer.
 
 🤪 I’m currently learning Livewire, Filament and Blazor
 
