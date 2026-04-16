@@ -5,16 +5,20 @@ on:
     - cron: "0 0 * * *"  # Executa todos os dias à meia-noite UTC
   workflow_dispatch:     # Permite rodar manualmente
 
+# ⚙️ PERMISSÕES: Concede ao token as permissões necessárias para fazer o push
+permissions:
+  contents: write
+
 jobs:
   build:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
 
     steps:
+      # ✅ PASSO 1: Atualizado de checkout@v3 para checkout@v4
       - name: Checkout do repositório
-        uses: actions/checkout@v4  # <-- VERSÃO ATUALIZADA
+        uses: actions/checkout@v4
 
+      # ✅ PASSO 2: Geração da cobrinha (nenhuma alteração necessária aqui)
       - name: Gerar a cobrinha
         uses: Platane/snk@v3
         with:
@@ -23,10 +27,11 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      # ✅ PASSO 3: Atualizado de peaceiris/actions-gh-pages@v3 para v4
       - name: Publicar no branch output
-        uses: peaceiris/actions-gh-pages@v4  # <-- VERSÃO ATUALIZADA
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          commit_message: "Atualização automática da cobrinha"
+          commit_message: "Atualização automática da cobrinha [skip ci]"
