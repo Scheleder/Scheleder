@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  👋 Hello, World! Eu sou o João
+  👋 Olá! Bem vindo ao meu perfil!
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9AFE&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Apaixonado+por+código+e+café☕;Sempre+aprendendo+algo+novo!" alt="Typing SVG">
 </h1>
