@@ -20,7 +20,7 @@
 
 - 🔭 Atualmente trabalhando como **Desenvolvedor**
 - 🌱 Aprendendo **Livewire, Filament e Blazor**
-- 💬 Pergunte-me sobre **PHP, C#, Java e arquitetura de software**
+- 💬 Trabalho com **PHP, C#, Java, C e arquitetura de software**
 - ⚡ Fato curioso: adoro transformar ideias em código funcional
 
 <br>
